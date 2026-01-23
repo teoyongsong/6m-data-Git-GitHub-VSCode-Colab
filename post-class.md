@@ -5,7 +5,7 @@
 **Week 1 Post-Class:**
 
 1. **Solo Project Setup (45 min)** — Individual GitHub repo
-   - Initialize their bootcamp project with Git
+   - Initialize your bootcamp project with Git
    - Create 5 commits with meaningful messages
    - Push to personal GitHub repo
    - Submit: link to repo in bootcamp platform
