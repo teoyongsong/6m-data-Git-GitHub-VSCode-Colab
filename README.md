@@ -1,6 +1,5 @@
 ## Git, GitHub, VS Code & Google Colab for Data Science
 
-**Instructor Persona:** Andrew Ng's Pedagogical Framework  
 **Duration:** 3 hours (180 minutes)  
 **Setting:** Classroom with hands-on lab setup  
 **Platforms:** Mac or Windows  
