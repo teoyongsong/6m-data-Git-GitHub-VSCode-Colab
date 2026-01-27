@@ -94,6 +94,8 @@ print("Hello, GitHub! This is my first commit.")
 
 ## **📘 Module 2: The Mental Model (10 mins)**
 
+*Goal: Sync VS Code with GitHub and master the "Golden Loop".*
+
 Now we move from the cloud to your actual computer. This is where it gets interesting.
 
 **New Key Concepts: Fork and Clone**
@@ -108,7 +110,7 @@ Demo: Forking and Cloning for Collaboration
 
 *Goal: Make a personal copy of a team's project and get it onto your local computer.*
 
-## **💻 Exercise B-1: The Workbench (45 mins)**
+## **💻 Exercise B: The Workbench (45 mins)**
 
 1. **Fork the Repository (The Cloud Copy):**  
    * Go to the main project's GitHub page (e.g., [https://github.com/su-ntu-ctp/6m-data-1.0-Welcome-Onboarding](https://github.com/su-ntu-ctp/6m-data-1.0-Welcome-Onboarding)).  
